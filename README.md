@@ -2,7 +2,7 @@
 
 
 
-# rich-markdown-editor
+# dps fork of rich-markdown-editor
 
 A React and [Prosemirror](https://prosemirror.net/) based editor that powers [Outline](http://getoutline.com) and can also be used for displaying content in a read-only fashion.
 The editor is WYSIWYG and includes formatting tools whilst retaining the ability to write markdown shortcuts inline and output plain Markdown.
